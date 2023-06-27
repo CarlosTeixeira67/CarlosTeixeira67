@@ -2,7 +2,7 @@
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTeixeira67&hide_progress=Compactlayout)
 
 
 
