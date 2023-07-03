@@ -3,7 +3,7 @@
 - 🔥 Futuro Web Developer
 - 📚 Estudante pelo [@iosoficial](https://www.instagram.com/iosoficial/)
 
-
+## Estatísticas 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTeixeira67&hide_progress=Compactlayout)
 
 
