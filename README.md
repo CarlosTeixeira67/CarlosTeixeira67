@@ -1,5 +1,5 @@
 # Olá, eu sou o Carlos Teixeira
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F965&width=435&separator=%3C&lines=Olá%2C+sou+o+Carlos+Teixeira+;D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F965&width=435&separator=%3C&lines=Olá%2C+sou+o+Carlos+Teixeira+🙂)](https://git.io/typing-svg)
 
 - 🔥 Futuro Web Developer
 - 📚 Estudante pelo [@iosoficial](https://www.instagram.com/iosoficial/)
