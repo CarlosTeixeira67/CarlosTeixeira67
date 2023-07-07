@@ -8,7 +8,7 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarlosTeixeira67&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTeixeira67&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosTeixeira67&bg_color=101332&color=828282&line=00f965&point=0e6cd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style= "display: inline_block"> <br/>
 
