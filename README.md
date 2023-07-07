@@ -1,14 +1,17 @@
-# Olá, eu sou o Carlos Teixeira
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Teixeira;I'm+19+years+old;I'm+from+Brazil;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔥 Futuro Web Developer
-- 📚 Estudante pelo [@iosoficial](https://www.instagram.com/iosoficial/)
 
-## Estatísticas 📈
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarlosTeixeira67&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTeixeira67&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarlosTeixeira67&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTeixeira67&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosTeixeira67&bg_color=101332&color=828282&line=00f965&point=0e6cd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
 
 <div style= "display: inline_block"> <br/>
 
