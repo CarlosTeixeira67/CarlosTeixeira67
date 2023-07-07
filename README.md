@@ -12,7 +12,7 @@
 
 <div style= "display: inline_block"> <br/>
 
-Minhas Ferramentas:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=false&width=1000&repeat=false&lines=Minhas+skills)](https://git.io/typing-svg)
 
 
 <div style="display: inline_block"><br>
