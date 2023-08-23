@@ -1,15 +1,19 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=35206e&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Teixeira;I'm+19+years+old;I'm+from+Brazil;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Teixeira;I'm+19+years+old;I'm+from+Brazil;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosTeixeira67&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarlosTeixeira67&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTeixeira67&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosTeixeira67&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
