@@ -1,8 +1,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=35206e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Teixeira;I'm+19+years+old;I'm+from+Brazil;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Teixeira;I'm+19+years+old;I'm+from+Brazil;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+![22b22287602523 5dbd29081561d](https://github.com/CarlosTeixeira67/CarlosTeixeira67/assets/129216612/244d2dc6-82a8-4de7-9177-b734556c7b95)
 
 
 
