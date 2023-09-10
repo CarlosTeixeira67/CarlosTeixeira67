@@ -25,7 +25,7 @@
 
 <div style= "display: inline_block"> <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=false&width=1000&repeat=false&lines=Minhas+skills)](https://git.io/typing-svg)
+# Minhas Skills
 
 
 <div style="display: inline_block"><br>
