@@ -11,7 +11,7 @@
 
 ![22b22287602523 5dbd29081561d](https://github.com/CarlosTeixeira67/CarlosTeixeira67/assets/129216612/244d2dc6-82a8-4de7-9177-b734556c7b95)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosTeixeira67&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
