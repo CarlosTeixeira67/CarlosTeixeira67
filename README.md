@@ -20,7 +20,7 @@
 </div>
 
 
-[![Carlos Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosTeixeira67 &langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@felipefialho)
+[![CarlosWakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?usernameCarlosTeixeira67 &langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@felipefialho)
 <div style= "display: inline_block"> <br/>
 
 # Minhas Skills
