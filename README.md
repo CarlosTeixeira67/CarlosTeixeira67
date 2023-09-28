@@ -20,7 +20,7 @@
 </div>
 
 
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosTeixeira67)](https://github.com/CarlosTeixeira67/github-readme-stats)
 
 # Minhas Skills
 
