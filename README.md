@@ -15,7 +15,7 @@
  <div style="display: inline_block">
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosTeixeira67&show_icons=true&count_private=true&hide_border=false&border_color=8&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=000000" alt="Carlos Teixeira github stats" /> 
  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTeixeira67&layout=compact&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=CarlosTeixeira67&theme=darcula&hide_border=true&background=FFFFFF00">
+
   <br>
 </div>
 
