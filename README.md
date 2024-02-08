@@ -58,6 +58,8 @@
 # Interesse de estudo
 <div style="display: inline_block">
 
+ 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
           
 </div>
