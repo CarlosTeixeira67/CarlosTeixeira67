@@ -50,18 +50,15 @@
 <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 
-
+# Interesse de estudo
+<div style="display: inline_block">
+<img align="center" alt="mysql" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="center" alt="php" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=35206e&height=120&section=footer"/>
   
 </div>
 
-# Interesse de estudo
-<div style="display: inline_block">
 
- 
-<img align="center" alt="mysql" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img align="center" alt="php" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          
           
 </div>
