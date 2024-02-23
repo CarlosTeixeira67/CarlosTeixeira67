@@ -54,6 +54,12 @@
 <div style="display: inline_block">
 <img align="center" alt="mysql" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="center" alt="php" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosTeixeira67}/count.svg" /></p> 
+<br>
+</div>
           
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=35206e&height=120&section=footer"/>
   
