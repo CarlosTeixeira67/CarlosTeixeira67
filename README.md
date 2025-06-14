@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Teixeira;I'm+19+years+old;I'm+from+Brazil;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Teixeira;I'm+21+years+old;I'm+from+Brazil;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
